@@ -1,3 +1,3 @@
 # Zealcrave
 A food delivery application i am currently working on.
-Technology used is flutter
+Technology used is flutter and dart
