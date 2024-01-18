@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+//homepage widget
 class MyHomePage extends StatelessWidget {
   const MyHomePage({Key? key, required this.title}) : super(key: key);
 
