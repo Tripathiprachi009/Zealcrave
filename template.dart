@@ -344,7 +344,7 @@ class DairyListPage extends StatelessWidget {
               // Add logic to navigate to the details page of Quick Stop
             },
           ),
-          // Add more ListTile widgets for additional general stores
+          
         ],
       ),
     );
